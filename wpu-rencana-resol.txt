@@ -6,6 +6,10 @@ RENCANA RESOLUSI
 - Belajar JavaScript
   * ES6
   * Framework JavaScript
+
+- PHP
+  ^ Laravel
   ^ Viu
   ^ React
 - Belajar Struktur data
+
