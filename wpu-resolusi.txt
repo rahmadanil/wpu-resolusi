@@ -3,4 +3,7 @@ WPU resolusi
 - Konsisten belajar web programming
 - Konsisten belajar Data science
 - Konsisten belajar JavaScript
-- Konsisten belajar 
+- Konsisten belajar CSS
+- Konsisten belajar JSON/AJAX
+- Konsisten belajar Phyton.
+- Konsisten belajar R
