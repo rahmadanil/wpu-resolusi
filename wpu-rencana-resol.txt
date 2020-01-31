@@ -1,8 +1,11 @@
 RENCANA RESOLUSI 
 - Belajar HTML dasar
 - Belajar PHP
+  PHP Framwork Laravel
 - Belajar CSS
 - Belajar JavaScript
   * ES6
   * Framework JavaScript
+  ^ Viu
+  ^ React
 - Belajar Struktur data
