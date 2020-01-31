@@ -7,4 +7,5 @@ RENCANA RESOLUSI
   * ES6
   * Framework JavaScript
   ^ Viu
+  ^ React
 - Belajar Struktur data
