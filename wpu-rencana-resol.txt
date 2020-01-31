@@ -1,0 +1,4 @@
+RENCANA RESOLUSI 
+- Belajar HTML dasar
+- Belajar PHP
+- Belajar CSS
