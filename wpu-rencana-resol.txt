@@ -1,0 +1,7 @@
+RENCANA RESOLUSI 
+- Belajar HTML dasar
+- Belajar PHP
+- Belajar CSS
+- Belajar JavaScript
+  * ES6
+  * Framework JavaScript
