@@ -7,3 +7,4 @@ WPU resolusi
 - Konsisten belajar JSON/AJAX
 - Konsisten belajar Phyton.
 - Konsisten belajar R
+- Membuat blog
