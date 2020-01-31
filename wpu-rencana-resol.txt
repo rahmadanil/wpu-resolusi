@@ -5,3 +5,4 @@ RENCANA RESOLUSI
 - Belajar JavaScript
   * ES6
   * Framework JavaScript
+- Belajar Struktur data
