@@ -11,5 +11,6 @@ RENCANA RESOLUSI
   ^ Laravel
   ^ Viu
   ^ React
+  ^ Angular
 - Belajar Struktur data
 
